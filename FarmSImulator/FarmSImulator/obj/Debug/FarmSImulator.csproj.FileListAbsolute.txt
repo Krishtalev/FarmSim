@@ -1,0 +1,10 @@
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\bin\Debug\FarmSImulator.exe.config
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\bin\Debug\FarmSImulator.exe
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\bin\Debug\FarmSImulator.pdb
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\obj\Debug\FarmSImulator.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\obj\Debug\FarmSImulator.Form1.resources
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\obj\Debug\FarmSImulator.Properties.Resources.resources
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\obj\Debug\FarmSImulator.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\obj\Debug\FarmSImulator.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\obj\Debug\FarmSImulator.exe
+C:\Users\Никита\source\repos\FarmSImulator\FarmSImulator\obj\Debug\FarmSImulator.pdb
